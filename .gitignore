@@ -1,0 +1,13 @@
+*.txt
+*.pyc
+*.tcl
+*.xbm
+*.gif
+*.msg
+*.enc
+*.eps
+*.ppm
+*.terms
+*.h
+
+
